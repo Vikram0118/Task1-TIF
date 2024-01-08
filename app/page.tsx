@@ -1,10 +1,10 @@
-import Image from "next/image"
-import Hero from "@/components/Hero"
-import About from "@/components/About"
-import Latest from "@/components/Latest"
-import Footer from "@/components/Footer"
+import Image from "next/image";
+import Hero from "@/components/Hero";
+import About from "@/components/About";
+import Latest from "@/components/Latest";
+import Footer from "@/components/Footer";
 
-const pages = () => {
+const Pages = () => {
   return (
     <main className="flex flex-col overflow-x-hidden">
       <Hero />
@@ -12,7 +12,7 @@ const pages = () => {
       <Latest />
       <Footer />
     </main>
-  )
-}
+  );
+};
 
-export default pages
+export default Pages;

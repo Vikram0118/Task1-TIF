@@ -4,7 +4,7 @@ import { Button } from './ui/button'
 
 const About = () => {
   return (
-    <section className='bg-app-footBg mt-[64px]'>
+    <section className='bg-app-footBg mt-[64px] md:mt-[150px]'>
       <div className='flex flex-row  justify-center md:justify-evenly items-center w-full max-w-screen-xl mx-auto'>
 
         <Image 

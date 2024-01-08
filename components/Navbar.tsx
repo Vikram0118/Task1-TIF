@@ -17,7 +17,7 @@ const Navbar = () => {
         </Link>
 
         <div className='m-[18px] md:mt-[35px] md:mr-[52.5px]'>
-            <Button className='__redButton rounded-[21px]'>
+            <Button className='__redButton rounded-[21px] text-[11px] md:text-[16px]'>
                 Get in Touch
             </Button>
         </div>
