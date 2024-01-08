@@ -12,6 +12,7 @@ const Navbar = () => {
                 src="/assets/icons/logo.svg"
                 alt="food truck logo"
                 width={107}
+                priority={true}
                 height={83}
             />
         </Link>

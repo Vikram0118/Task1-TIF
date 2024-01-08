@@ -20,6 +20,7 @@ const Hero = () => {
                 alt='pizza logo'
                 width={735}
                 height={804}
+                priority={true}
                 className='md:pl-2 w-full '
               />
             </div>
