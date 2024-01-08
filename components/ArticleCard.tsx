@@ -21,6 +21,7 @@ const ArticleCard = ({article} : Props) => {
                 alt={topic} 
                 width={326}
                 height={257}
+                priority={true}
             />
         </div>
 

@@ -14,6 +14,7 @@ const Footer = () => {
                 src="/assets/icons/logo.svg"
                 alt='logo'
                 width={75}
+                priority={true}
                 height={58}
                 className="w-full" 
               />
